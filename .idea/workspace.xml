@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2acc49e5-36c6-4e9a-84c2-d09f656d49c5" name="Changes" comment="Homework 6">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+    <list default="true" id="2acc49e5-36c6-4e9a-84c2-d09f656d49c5" name="Changes" comment="Pilar OOP">
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669701975905</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pilar OOP">
+      <created>1677567136954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677567136954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New updates" />
     <MESSAGE value="Homework 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 6" />
+    <MESSAGE value="Pilar OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pilar OOP" />
   </component>
 </project>

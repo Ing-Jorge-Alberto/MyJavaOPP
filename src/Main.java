@@ -26,5 +26,9 @@ public class Main {
         System.out.println("We have an "+cat.getBreed()+" cat named "+cat.getName());
         cat.makeSound();
         cat.sleep();
+
+        Dog dog = new Dog();
+        dog.makeSound();
+        dog.sleep();
         }
     }
